@@ -1,4 +1,6 @@
 Sistema Bancário Simples em Java
+![image](https://github.com/user-attachments/assets/a55063b5-3819-40f4-8854-b43e7d796ab6)
+
 
 Este é um sistema bancário simples desenvolvido em Java que permite criar uma conta, consultar saldo, realizar depósitos e saques através do console.
 
