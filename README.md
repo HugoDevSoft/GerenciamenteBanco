@@ -8,7 +8,7 @@ Tecnologias: Java, console, JDK (versão).
 
 ->> Como rodar:
 
-git clone …  
+git clone 
 cd GerenciamenteBanco  
 javac sistemaBancario.java  
 java sistemaBancario
